@@ -1,0 +1,241 @@
+{
+  "p01": {
+    "url": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb",
+    "alt": "Black wireless headphones on a white table",
+    "credit": "Luke Peterson",
+    "backup": "https://images.unsplash.com/photo-1765279360461-e6b8199b906c",
+    "localAlt": "Flat lay of headphones and everyday accessories on a dark surface",
+    "localSource": "startbootstrap-agency"
+  },
+  "p02": {
+    "url": "https://images.unsplash.com/photo-1624096104992-9b4fa3a279dd",
+    "alt": "Black smartwatch on a white background",
+    "credit": "Auguras Pipiras",
+    "backup": "https://images.unsplash.com/photo-1762768752302-8b7a2a04b68e",
+    "localAlt": "Person working on a laptop with a phone on a wooden desk",
+    "localSource": "argon-design-system-free"
+  },
+  "p03": {
+    "url": "https://images.unsplash.com/photo-1547052178-7f2c5a20c332",
+    "alt": "Oval grey portable speaker on a white surface",
+    "credit": "Lynda Sanchez",
+    "backup": "https://images.unsplash.com/photo-1582978571763-2d039e56f0c3",
+    "localAlt": "Black rotary telephone on a white background",
+    "localSource": "startbootstrap-clean-blog"
+  },
+  "p04": {
+    "url": "https://images.unsplash.com/photo-1570974802254-4b0ad1a755f5",
+    "alt": "White table lamp",
+    "credit": "Brina Blum",
+    "backup": "https://images.unsplash.com/photo-1731762524352-b5663f83a830",
+    "localAlt": "Arc floor lamp beside a black armchair",
+    "localSource": "soft-ui-dashboard"
+  },
+  "p05": {
+    "url": "https://images.unsplash.com/photo-1634681896994-0027a701b1d7",
+    "alt": "White aroma diffuser with mist rising from it",
+    "credit": "Yomex Owo",
+    "backup": "https://images.unsplash.com/photo-1768471569643-717e823b5f9a",
+    "localAlt": "Bright bedroom with a four-poster bed",
+    "localSource": "soft-ui-dashboard"
+  },
+  "p06": {
+    "url": "https://images.unsplash.com/photo-1612293905607-b003de9e54fb",
+    "alt": "Hand lighting a candle in a brown glass jar with a match",
+    "credit": "No Revisions",
+    "backup": "https://images.unsplash.com/photo-1572726729207-a78d6feb18d7",
+    "localAlt": "Leather armchair with a cushion and a coffee cup",
+    "localSource": "material-dashboard"
+  },
+  "p07": {
+    "url": "https://images.unsplash.com/photo-1708799366365-a24608103bed",
+    "alt": "Pair of black sunglasses on a white background",
+    "credit": "Barry A",
+    "backup": "https://images.unsplash.com/photo-1584036553516-bf83210aa16c",
+    "localAlt": "Man wearing sunglasses and a leather jacket",
+    "localSource": "argon-design-system-free"
+  },
+  "p08": {
+    "url": "https://images.unsplash.com/photo-1580226223521-5412ec88237a",
+    "alt": "White round analog wrist watch showing 10:10",
+    "credit": "Nordgreen",
+    "backup": "https://images.unsplash.com/photo-1616928231359-fc8b7e244c3b",
+    "localAlt": "Man in a checked shirt looking at his wrist",
+    "localSource": "material-kit"
+  },
+  "p09": {
+    "url": "https://images.unsplash.com/photo-1624538000860-24716b9050f2",
+    "alt": "Brown leather bifold wallet on a white table",
+    "credit": "suraj kumar",
+    "backup": "https://images.unsplash.com/photo-1601592996763-f05c9c80a7f1",
+    "localAlt": "Flat lay of leather wallets and accessories on a dark surface",
+    "localSource": "startbootstrap-agency"
+  },
+  "p10": {
+    "url": "https://images.unsplash.com/photo-1781344116880-029945a42b75",
+    "alt": "Amber glass dropper bottle with a blank label on a concrete block",
+    "credit": "Avtar Singh",
+    "backup": "https://images.unsplash.com/photo-1715750968540-841103c78d47",
+    "localAlt": "Close-up portrait of a woman looking away",
+    "localSource": "soft-ui-design-system"
+  },
+  "p11": {
+    "url": "https://images.unsplash.com/photo-1592136957897-b2b6ca21e10d",
+    "alt": "Jade facial roller with facial cleansing tools on a white surface",
+    "credit": "Content Pixie",
+    "backup": "https://images.unsplash.com/photo-1578747763484-51b21a33e4fa",
+    "localAlt": "Portrait of a woman with a dark bob haircut",
+    "localSource": "argon-design-system-free"
+  },
+  "p12": {
+    "url": "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
+    "alt": "Pink and brown makeup brush set",
+    "credit": "Shamblen Studios",
+    "backup": "https://images.unsplash.com/photo-1620464003286-a5b0d79f32c2",
+    "localAlt": "Portrait of a woman in a light blue sweater",
+    "localSource": "argon-design-system-free"
+  },
+  "p13": {
+    "url": "https://images.unsplash.com/photo-1763004871583-4183d64096b1",
+    "alt": "Two rolled yoga mats standing against a wall",
+    "credit": "Tuaans",
+    "backup": "https://images.unsplash.com/photo-1646239646963-b0b9be56d6b5",
+    "localAlt": "Smiling man in a sports T-shirt",
+    "localSource": "soft-ui-design-system"
+  },
+  "p14": {
+    "url": "https://images.unsplash.com/photo-1602143407151-7111542de6e8",
+    "alt": "Green bottle on a white table",
+    "credit": "Joan Tran",
+    "backup": "https://images.unsplash.com/photo-1683383277379-644816d886e2",
+    "localAlt": "Hiker sitting at the edge of a canyon",
+    "localSource": "soft-ui-design-system"
+  },
+  "p15": {
+    "url": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2",
+    "alt": "Two black dumbbells and an orange resistance band on a wooden surface",
+    "credit": "Kelly Sikkema",
+    "backup": "https://images.unsplash.com/photo-1552226351-1ac7863af926",
+    "localAlt": "Skateboarder riding along a beach promenade",
+    "localSource": "argon-design-system-free"
+  },
+  "p16": {
+    "url": "https://images.unsplash.com/photo-1594299447935-e5b840f54b9b",
+    "alt": "Black backpack on a white box",
+    "credit": "I'M ZION",
+    "backup": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3",
+    "localAlt": "Leather backpack, map and camera laid out for a trip",
+    "localSource": "startbootstrap-clean-blog"
+  },
+  "p17": {
+    "url": "https://images.unsplash.com/photo-1670888664952-efff442ec0d2",
+    "alt": "Blue suitcase standing on a wooden floor",
+    "credit": "American Green Travel",
+    "backup": "https://images.unsplash.com/photo-1670888616427-764112453941",
+    "localAlt": "Yellow vintage car parked on a cobbled street",
+    "localSource": "paper-kit"
+  },
+  "p18": {
+    "url": "https://images.pexels.com/photos/25210705/pexels-photo-25210705.jpeg",
+    "alt": "Backpack with a neck pillow and a travel bag lying on the ground",
+    "backup": "https://images.unsplash.com/photo-1549937917-03ccda498729",
+    "localAlt": "Palm tree leaning over a tropical beach",
+    "localSource": "argon-design-system-free"
+  },
+  "hero_main": {
+    "url": "https://images.unsplash.com/photo-1625786682948-2168238883d2",
+    "alt": "Woman in a white long-sleeved shirt wearing white headphones with her eyes closed",
+    "credit": "Jair Medina Nossa",
+    "backup": "https://images.unsplash.com/photo-1722513992912-360082625d33",
+    "localAlt": "Woman in a grey hoodie laughing against a blue background",
+    "localSource": "soft-ui-design-system"
+  },
+  "hero_side": {
+    "url": "https://images.unsplash.com/photo-1511556820780-d912e42b4980",
+    "alt": "Bag, sneakers and sunglasses laid out on a beige surface",
+    "credit": "Malvestida",
+    "backup": "https://images.unsplash.com/photo-1593821684772-6865bb9413a0",
+    "localAlt": "Desk flat lay with a phone, notebook and glasses",
+    "localSource": "startbootstrap-clean-blog"
+  },
+  "cat_electronics": {
+    "url": "https://images.unsplash.com/photo-1616750819287-955503f65d42",
+    "alt": "Black and silver headphones on a white surface",
+    "credit": "Birgith Roosipuu",
+    "backup": "https://images.unsplash.com/photo-1693895592595-9171d91a0f22",
+    "localAlt": "Laptop on a dark wooden desk with a white chair",
+    "localSource": "startbootstrap-creative"
+  },
+  "cat_home": {
+    "url": "https://images.unsplash.com/photo-1572853566597-b83cde546912",
+    "alt": "Two white ceramic vases in a minimalist setting",
+    "credit": "WARION Taipei",
+    "backup": "https://images.unsplash.com/photo-1695457264710-304756bfc89c",
+    "localAlt": "Living room corner with a yellow armchair",
+    "localSource": "soft-ui-dashboard"
+  },
+  "cat_fashion": {
+    "url": "https://images.unsplash.com/photo-1589363358751-ab05797e5629",
+    "alt": "Metallic handbag and a rose gold watch on a beige trench coat",
+    "credit": "Laura Chouette",
+    "backup": "https://images.unsplash.com/photo-1575202332411-b01fe9ace7a8",
+    "localAlt": "Woman in a colourful dress against a pink wall",
+    "localSource": "argon-design-system-free"
+  },
+  "cat_beauty": {
+    "url": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108",
+    "alt": "Amber glass dropper bottle on a wooden pedestal with palm leaf shadows",
+    "credit": "Kadarius Seegars",
+    "backup": "https://images.unsplash.com/photo-1552046122-03184de85e08",
+    "localAlt": "Woman in a red sweater against a yellow background",
+    "localSource": "soft-ui-design-system"
+  },
+  "cat_fitness": {
+    "url": "https://images.unsplash.com/photo-1754839004013-0276d56bc0e7",
+    "alt": "Kettlebell resting on a yoga mat in sunlight",
+    "credit": "Brunxs",
+    "backup": "https://images.unsplash.com/photo-1763004871583-4183d64096b1",
+    "localAlt": "Woman in an orange T-shirt walking outdoors",
+    "localSource": "material-kit"
+  },
+  "cat_travel": {
+    "url": "https://images.unsplash.com/photo-1502301197179-65228ab57f78",
+    "alt": "Open suitcase with travel essentials and a hat",
+    "credit": "Marissa Grootes",
+    "backup": "https://images.unsplash.com/photo-1632165061207-81a8a3baee47",
+    "localAlt": "Canal lined with colourful houses at sunset",
+    "localSource": "paper-kit"
+  },
+  "banner_audio": {
+    "url": "https://images.unsplash.com/photo-1613520761713-762ab9689cde",
+    "alt": "Man in a white long-sleeved shirt wearing black headphones",
+    "credit": "Nubelson Fernandes",
+    "backup": "https://images.unsplash.com/photo-1547052178-7f2c5a20c332",
+    "localAlt": "Tablet, pen and a cup of tea on a wooden table",
+    "localSource": "soft-ui-design-system"
+  },
+  "banner_travel": {
+    "url": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b",
+    "alt": "Man with a red hiking backpack facing a body of water and mountains in daytime",
+    "credit": "Philipp Kämmerer",
+    "backup": "https://images.unsplash.com/photo-1581553680321-4fffae59fccd",
+    "localAlt": "Canal between historic stone buildings",
+    "localSource": "paper-kit"
+  },
+  "banner_home": {
+    "url": "https://images.unsplash.com/photo-1789799223101-af3f22418b46",
+    "alt": "Wooden coffee table with a candle in a sunlit living room",
+    "credit": "Madeline Liu",
+    "backup": "https://images.unsplash.com/photo-1676662231670-083af7a6bace",
+    "localAlt": "Loft living room with a leather sofa",
+    "localSource": "material-dashboard"
+  },
+  "banner_offer": {
+    "url": "https://images.unsplash.com/photo-1620987278429-ab178d6eb547",
+    "alt": "Four cylindrical pedestals of varying heights on a solid beige background",
+    "credit": "Rodion Kutsaiev",
+    "backup": "https://images.unsplash.com/photo-1726557116827-5f2a95d57cab",
+    "localAlt": "Abstract blue wave pattern",
+    "localSource": "soft-ui-design-system"
+  }
+}
